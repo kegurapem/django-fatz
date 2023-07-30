@@ -29,7 +29,7 @@ body{
 .container {
     max-width: 1200px;
     margin: auto;
-    /* padding: 8px 0; */
+    padding: 16px 10px;
 }
 
 .card {
@@ -37,4 +37,11 @@ body{
     color: #404040;
     padding: 40px;
     margin-bottom: 4px;
+}
+
+.input {
+    background-color: rgb(209, 196, 162);
+    padding: 10px;
+    text-align: center;
+    display: block;
 }
